@@ -2,6 +2,9 @@ This project models a simple store front application using object oriented progr
 The program includes a SalableProduct class to represent products, an InventoryManager class to manage inventory, a ShoppingCart class to hold items selected by the user, and a StoreFront class that connects the system together. 
 The StoreFrontApp class runs the application and allows the user to interact with the store through a simple menu.
 
+Week 2:
+This week added three new classes: Weapon, Armor, and Health, which extend SalableProduct and demonstrate inheritance. The StoreFront inventory was updated to include multiple product types. InventoryManager methods were refined to better support purchasing and canceling products. The UML diagram and flowchart were updated to reflect these changes, and user feedback messages were improved.
+
 
 ** How to Run **
 Run the StoreFrontApp.java file in Eclipse.
