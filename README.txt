@@ -19,5 +19,5 @@ Part 2: https://www.loom.com/share/40e07d2265d241f58bbebd0878e585c6
 
 
 Screencast Week 2: 2 Videos again as I can not put more than 5 minutes on a video.
-Part 1:
-Part 2:
+Part 1: https://www.loom.com/share/a0ea01d15da74bdbbcf6619baa438d57
+Part 2: https://www.loom.com/share/2a8df303d3454bafbfa46f3ac894216b
