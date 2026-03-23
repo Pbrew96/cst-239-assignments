@@ -13,3 +13,8 @@ To purchase a product select '2' from the menu and type the product name in foll
 Screencast: LOOM only lets me record a 5 minute video at a time. So I have 2 links
 Part 1: https://www.loom.com/share/62eff6f4aefa46eca82942f25e040413
 Part 2: https://www.loom.com/share/40e07d2265d241f58bbebd0878e585c6
+
+
+Screencast Week 2: 2 Videos again as I can not put more than 5 minutes on a video.
+Part 1:
+Part 2:
