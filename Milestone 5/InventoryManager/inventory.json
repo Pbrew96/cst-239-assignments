@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Sword",
+    "description": "Basic iron sword",
+    "price": 50.0,
+    "quantity": 10
+  },
+  {
+    "name": "Bow",
+    "description": "Long range bow",
+    "price": 75.0,
+    "quantity": 5
+  },
+  {
+    "name": "Helmet",
+    "description": "Iron helmet",
+    "price": 30.0,
+    "quantity": 8
+  },
+  {
+    "name": "Chestplate",
+    "description": "Steel chestplate",
+    "price": 100.0,
+    "quantity": 3
+  },
+  {
+    "name": "Small Potion",
+    "description": "Restores a small amount of health",
+    "price": 20.0,
+    "quantity": 15
+  },
+  {
+    "name": "Large Potion",
+    "description": "Restores a large amount of health",
+    "price": 40.0,
+    "quantity": 8
+  }
+]
