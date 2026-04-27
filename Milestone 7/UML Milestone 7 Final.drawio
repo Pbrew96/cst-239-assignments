@@ -1,0 +1,195 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.6 Chrome/144.0.7559.236 Electron/40.8.4 Safari/537.36" version="29.6.6" pages="2">
+  <diagram name="Page-1" id="M0LMtYnSJdWQkJGIRIHT">
+    <mxGraphModel dx="2918" dy="1642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0qfG_yR7N09pRTx1VXt8-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="540" width="620" x="-80" y="29" as="geometry" />
+        </mxCell>
+        <mxCell id="0qfG_yR7N09pRTx1VXt8-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="430" width="440" x="570" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0qfG_yR7N09pRTx1VXt8-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="430" width="440" x="20" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="0qfG_yR7N09pRTx1VXt8-20" edge="1" parent="1" source="0qfG_yR7N09pRTx1VXt8-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0qfG_yR7N09pRTx1VXt8-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0qfG_yR7N09pRTx1VXt8-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="430" width="440" x="570" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="0qfG_yR7N09pRTx1VXt8-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="430" width="440" x="290" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="0qfG_yR7N09pRTx1VXt8-6" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;SalableProduct&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="60" width="440" x="-80" y="29" as="geometry" />
+        </mxCell>
+        <mxCell id="0qfG_yR7N09pRTx1VXt8-7" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;InventoryManager&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="60" width="440" x="570" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0qfG_yR7N09pRTx1VXt8-24" edge="1" parent="1" source="0qfG_yR7N09pRTx1VXt8-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="0qfG_yR7N09pRTx1VXt8-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0qfG_yR7N09pRTx1VXt8-8" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;ShoppingCart&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="60" width="440" x="20" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="0qfG_yR7N09pRTx1VXt8-9" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;StoreFront&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="60" width="440" x="570" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="0qfG_yR7N09pRTx1VXt8-10" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;StoreFrontApp&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="60" width="440" x="290" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="0qfG_yR7N09pRTx1VXt8-13" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;" value="&lt;pre style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;# name : String&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;# description : String&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;# price : double&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;# quantity : int&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ SalableProduct()&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ SalableProduct(name : String, description : String, price : double, quantity : int)&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ getName() : String&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ setName(name : String) : void&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ getDescription() : String&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ setDescription(description : String) : void&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ getPrice() : double&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ setPrice(price : double) : void&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ getQuantity() : int&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ setQuantity(quantity : int) : void&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ decreaseQuantity(amount : int) : void&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ increaseQuantity(amount : int) : void&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ toString() : String&lt;/span&gt;&lt;/pre&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="480" width="620" x="-80" y="89" as="geometry" />
+        </mxCell>
+        <mxCell id="0qfG_yR7N09pRTx1VXt8-23" edge="1" parent="1" source="0qfG_yR7N09pRTx1VXt8-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="0qfG_yR7N09pRTx1VXt8-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MyWV8FNrEpF2N-Z7X5Fo-4" edge="1" parent="1" source="0qfG_yR7N09pRTx1VXt8-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="MyWV8FNrEpF2N-Z7X5Fo-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0qfG_yR7N09pRTx1VXt8-15" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;pre style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;- products : ArrayList&amp;lt;SalableProduct&amp;gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;- fileService : FileService&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;- inventoryFileName : String&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ InventoryManager()&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ initializeInventoryFromFile(fileName : String) : void&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ saveInventoryToFile() : void&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ updateInventory(newProducts : ArrayList&amp;lt;SalableProduct&amp;gt;) : void&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ addProduct(product : SalableProduct) : void&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ getProducts() : ArrayList&amp;lt;SalableProduct&amp;gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ displayInventory() : void&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ findProduct(name : String) : SalableProduct&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ sortByNameAscending() : void&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ sortByNameDescending() : void&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ sortByPriceAscending() : void&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ sortByPriceDescending() : void&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ purchaseProduct(name : String, amount : int) : boolean&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ cancelProduct(name : String, amount : int) : boolean&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="370" width="440" x="570" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0qfG_yR7N09pRTx1VXt8-16" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;pre style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;- cartItems : ArrayList&amp;lt;SalableProduct&amp;gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ ShoppingCart()&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ addToCart(product : SalableProduct) : void&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ removeFromCart(name : String) : boolean&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ getCartItems() : ArrayList&amp;lt;SalableProduct&amp;gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ displayCart() : void&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ getTotal() : double&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ clearCart() : void&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="370" width="440" x="20" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="0qfG_yR7N09pRTx1VXt8-17" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;pre style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;- inventoryManager : InventoryManager&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;- shoppingCart : ShoppingCart&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;- adminServerThread : AdminServerThread&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ StoreFront()&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ initializeStore() : void&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ startAdministrationService(port : int) : void&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ displayStore() : void&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ purchaseProduct(name : String, qty : int) : boolean&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ cancelPurchase(name : String) : boolean&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ displayCart() : void&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ sortByNameAscending() : void&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ sortByNameDescending() : void&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ sortByPriceAscending() : void&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ sortByPriceDescending() : void&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="370" width="440" x="570" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="0qfG_yR7N09pRTx1VXt8-18" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;p style=&quot;margin-top: 0px;&quot;&gt;&amp;nbsp;+ main(args : String[]) : void&lt;/p&gt;" vertex="1">
+          <mxGeometry height="371" width="440" x="290" y="1180" as="geometry" />
+        </mxCell>
+        <mxCell id="0qfG_yR7N09pRTx1VXt8-22" edge="1" parent="1" source="0qfG_yR7N09pRTx1VXt8-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.023;entryY=0.308;entryDx=0;entryDy=0;entryPerimeter=0;" target="0qfG_yR7N09pRTx1VXt8-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0qfG_yR7N09pRTx1VXt8-25" edge="1" parent="1" source="0qfG_yR7N09pRTx1VXt8-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.333;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" target="0qfG_yR7N09pRTx1VXt8-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IwGBnntkdB2ODmppIOTx-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="430" width="440" x="-1070" y="291" as="geometry" />
+        </mxCell>
+        <mxCell id="IwGBnntkdB2ODmppIOTx-3" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Weapon implements Comparable&amp;lt;Weapon&amp;gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="60" width="440" x="-1070" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="IwGBnntkdB2ODmppIOTx-4" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;p style=&quot;margin-top: 0px;&quot;&gt;&amp;nbsp;- damage : int&lt;/p&gt;&lt;p style=&quot;margin-top: 0px;&quot;&gt;&amp;nbsp;- weaponType : String&lt;/p&gt;&lt;p style=&quot;margin-top: 0px;&quot;&gt;&amp;nbsp;+ Weapon(name : String, description : String, price : double, quantity : int, damage : int, weaponType : String)&lt;/p&gt;&lt;p style=&quot;margin-top: 0px;&quot;&gt;&amp;nbsp;+ toString() : String&lt;/p&gt;" vertex="1">
+          <mxGeometry height="371" width="440" x="-1070" y="351" as="geometry" />
+        </mxCell>
+        <mxCell id="IwGBnntkdB2ODmppIOTx-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="430" width="440" x="-570" y="29" as="geometry" />
+        </mxCell>
+        <mxCell id="IwGBnntkdB2ODmppIOTx-6" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Health&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="60" width="440" x="-570" y="29" as="geometry" />
+        </mxCell>
+        <mxCell id="IwGBnntkdB2ODmppIOTx-12" edge="1" parent="1" source="IwGBnntkdB2ODmppIOTx-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="0qfG_yR7N09pRTx1VXt8-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IwGBnntkdB2ODmppIOTx-7" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;p style=&quot;margin-top: 0px;&quot;&gt;&amp;nbsp;- healAmount : int&lt;/p&gt;&lt;p style=&quot;margin-top: 0px;&quot;&gt;&amp;nbsp;- healthType : String&lt;/p&gt;&lt;p style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp;+ Health(name : String, description : String, price : double, quantity : int, healAmount : int, healthType : String)&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;+ toString() : String&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="371" width="440" x="-570" y="89" as="geometry" />
+        </mxCell>
+        <mxCell id="IwGBnntkdB2ODmppIOTx-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="430" width="440" x="-570" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="IwGBnntkdB2ODmppIOTx-9" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Armor&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="60" width="440" x="-570" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="IwGBnntkdB2ODmppIOTx-10" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;p style=&quot;margin-top: 0px;&quot;&gt;&amp;nbsp;- defense : int&lt;/p&gt;&lt;p style=&quot;margin-top: 0px;&quot;&gt;&amp;nbsp;- armorType : String&lt;/p&gt;&lt;p style=&quot;margin-top: 0px;&quot;&gt;&amp;nbsp;+ Armor(name : String, description : String, price : double, quantity : int, defense : int, armorType : String)&lt;/p&gt;&lt;p style=&quot;margin-top: 0px;&quot;&gt;&amp;nbsp;+ toString() : String&lt;/p&gt;" vertex="1">
+          <mxGeometry height="371" width="440" x="-570" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="IwGBnntkdB2ODmppIOTx-11" edge="1" parent="1" source="IwGBnntkdB2ODmppIOTx-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.002;entryY=0.863;entryDx=0;entryDy=0;entryPerimeter=0;" target="0qfG_yR7N09pRTx1VXt8-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-630" y="480" />
+              <mxPoint x="-305" y="480" />
+              <mxPoint x="21" y="483" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IwGBnntkdB2ODmppIOTx-13" edge="1" parent="1" source="IwGBnntkdB2ODmppIOTx-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.001;entryY=0.941;entryDx=0;entryDy=0;entryPerimeter=0;" target="0qfG_yR7N09pRTx1VXt8-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MyWV8FNrEpF2N-Z7X5Fo-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="430" width="620" x="1090" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MyWV8FNrEpF2N-Z7X5Fo-2" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;FileService&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="60" width="440" x="1090" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MyWV8FNrEpF2N-Z7X5Fo-3" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;pre style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ readProductsFromJson(fileName : String) : ArrayList&amp;lt;SalableProduct&amp;gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ writeProductsToJson(fileName : String, products : ArrayList&amp;lt;SalableProduct&amp;gt;) : void&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ productsToJson(products : ArrayList&amp;lt;SalableProduct&amp;gt;) : String&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ jsonToProducts(json : String) : ArrayList&amp;lt;SalableProduct&amp;gt;&lt;/span&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="370" width="620" x="1090" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="65pbjgqjeQQOpWg9meao-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="430" width="440" x="-1330" y="1070" as="geometry" />
+        </mxCell>
+        <mxCell id="65pbjgqjeQQOpWg9meao-3" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;AdminCommand&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="60" width="440" x="-1330" y="1070" as="geometry" />
+        </mxCell>
+        <mxCell id="65pbjgqjeQQOpWg9meao-4" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;pre style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;- commandType : String&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;- payload : String&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ AdminCommand(commandType : String, payload : String)&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ getCommandType() : String&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ getPayload() : String&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="371" width="440" x="-1330" y="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="65pbjgqjeQQOpWg9meao-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="430" width="440" x="-760" y="1069" as="geometry" />
+        </mxCell>
+        <mxCell id="65pbjgqjeQQOpWg9meao-6" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;AdministrationApplication&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="60" width="440" x="-760" y="1069" as="geometry" />
+        </mxCell>
+        <mxCell id="65pbjgqjeQQOpWg9meao-7" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;p style=&quot;margin-top: 0px;&quot;&gt;&amp;nbsp;+ main(args : String[]) : void&lt;/p&gt;" vertex="1">
+          <mxGeometry height="371" width="440" x="-760" y="1129" as="geometry" />
+        </mxCell>
+        <mxCell id="65pbjgqjeQQOpWg9meao-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="430" width="440" x="-1330" y="1630" as="geometry" />
+        </mxCell>
+        <mxCell id="65pbjgqjeQQOpWg9meao-9" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;AdminClient&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="60" width="440" x="-1330" y="1630" as="geometry" />
+        </mxCell>
+        <mxCell id="65pbjgqjeQQOpWg9meao-10" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;pre style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;- commandType : String&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;- payload : String&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ AdminCommand(commandType : String, payload : String)&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ getCommandType() : String&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ getPayload() : String&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="371" width="440" x="-1330" y="1690" as="geometry" />
+        </mxCell>
+        <mxCell id="65pbjgqjeQQOpWg9meao-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="430" width="480" x="-760" y="1630" as="geometry" />
+        </mxCell>
+        <mxCell id="65pbjgqjeQQOpWg9meao-12" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;AdministrationService&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="60" width="440" x="-760" y="1630" as="geometry" />
+        </mxCell>
+        <mxCell id="65pbjgqjeQQOpWg9meao-13" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;p style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;- inventoryManager : InventoryManager&lt;/span&gt;&lt;br style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;- fileService : FileService&lt;/span&gt;&lt;br style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ AdministrationService(inventoryManager : InventoryManager, fileService : FileService)&lt;/span&gt;&lt;br style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ processCommand(command : AdminCommand) : String&lt;/span&gt;&lt;br style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ handleUpdate(payload : String) : String&lt;/span&gt;&lt;br style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ handleRetrieve() : String&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="371" width="480" x="-760" y="1690" as="geometry" />
+        </mxCell>
+        <mxCell id="65pbjgqjeQQOpWg9meao-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="430" width="440" x="-90" y="1630" as="geometry" />
+        </mxCell>
+        <mxCell id="65pbjgqjeQQOpWg9meao-15" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;AdminServerThread&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="60" width="440" x="-90" y="1630" as="geometry" />
+        </mxCell>
+        <mxCell id="65pbjgqjeQQOpWg9meao-19" edge="1" parent="1" source="65pbjgqjeQQOpWg9meao-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="65pbjgqjeQQOpWg9meao-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="65pbjgqjeQQOpWg9meao-16" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;pre style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;- port : int&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;- administrationService : AdministrationService&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ AdminServerThread(port : int, administrationService : AdministrationService)&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;+ run() : void&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="371" width="430" x="-90" y="1690" as="geometry" />
+        </mxCell>
+        <mxCell id="65pbjgqjeQQOpWg9meao-17" edge="1" parent="1" source="65pbjgqjeQQOpWg9meao-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.959;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" target="65pbjgqjeQQOpWg9meao-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="65pbjgqjeQQOpWg9meao-18" edge="1" parent="1" source="65pbjgqjeQQOpWg9meao-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.436;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;" target="65pbjgqjeQQOpWg9meao-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="65pbjgqjeQQOpWg9meao-20" edge="1" parent="1" source="65pbjgqjeQQOpWg9meao-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.951;entryDx=0;entryDy=0;entryPerimeter=0;" target="0qfG_yR7N09pRTx1VXt8-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="65pbjgqjeQQOpWg9meao-21" edge="1" parent="1" source="65pbjgqjeQQOpWg9meao-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.419;entryY=1.027;entryDx=0;entryDy=0;entryPerimeter=0;" target="MyWV8FNrEpF2N-Z7X5Fo-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="65pbjgqjeQQOpWg9meao-22" edge="1" parent="1" source="MyWV8FNrEpF2N-Z7X5Fo-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.997;entryY=0.785;entryDx=0;entryDy=0;entryPerimeter=0;" target="0qfG_yR7N09pRTx1VXt8-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="WrQB7BXqceadIUHG32lJ" name="Page-2">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
