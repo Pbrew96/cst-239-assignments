@@ -34,3 +34,6 @@ https://www.loom.com/share/2b6b9ad6d18548f7bb2f252e1cff3c3b
 
 Screencast Week 6:
 https://www.loom.com/share/eee48f2f22d24ce29751095298c366ce
+
+Screencast Week 7:
+https://www.loom.com/share/dc296b06bcb44616a36d8134e10e86d7
